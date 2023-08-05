@@ -2,7 +2,6 @@
 Data Science internship
 
 The following important libraries were used for this project:
-
 numpy
 pandas
 matplotlib.pyplot
